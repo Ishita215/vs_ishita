@@ -79,29 +79,29 @@ Hi, I am **Yash Choubey**, a **Java Developer** who builds backend and enterpris
 <!-- GITHUB_ANALYSIS_START -->
 ## GitHub Analysis
 
-This section is generated from **Yash-Choubey09's** public GitHub repositories and profile data.
+This section is generated from **Ishita215's** public GitHub repositories and profile data.
 
-> Curious mind exploring tech through research & projects | CS student at Chandigarh University, Currently diving into AI, web dev, and real-world problem solving
+> I build, break, learn, and build again. 💻 Turning ideas into intelligent products with AI, full-stack development & a little creativity. 🚀
 
-**11** original public repositories · **3** followers · **3** following
+**13** original public repositories · **1** followers · **0** following
 
 ### Repository Language Signals
 
-![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-2f81f7?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-2f81f7?style=flat-square) ![Java](https://img.shields.io/badge/Java-2f81f7?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-2f81f7?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-2f81f7?style=flat-square) ![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-2f81f7?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-2f81f7?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-2f81f7?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-2f81f7?style=flat-square) ![Java](https://img.shields.io/badge/Java-2f81f7?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-2f81f7?style=flat-square)
 
-Most-used languages by repository count: **Python** (3), **TypeScript** (3), **JavaScript** (3), **Java** (1), **HTML** (1).
+Most-used languages by repository count: **JavaScript** (5), **Python** (1), **TypeScript** (1), **PHP** (1), **C++** (1), **HTML** (1), **Java** (1), **CSS** (1).
 
 ### Project Topics
 
-![algorithms](https://img.shields.io/badge/algorithms-7c3aed?style=flat-square) ![coding-interviews](https://img.shields.io/badge/coding-interviews-7c3aed?style=flat-square) ![competitive-programming](https://img.shields.io/badge/competitive-programming-7c3aed?style=flat-square) ![datastructures](https://img.shields.io/badge/datastructures-7c3aed?style=flat-square) ![dsa](https://img.shields.io/badge/dsa-7c3aed?style=flat-square) ![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-7c3aed?style=flat-square) ![java](https://img.shields.io/badge/java-7c3aed?style=flat-square) ![leetcode](https://img.shields.io/badge/leetcode-7c3aed?style=flat-square)
+No repository topics have been added yet.
 
 ### Featured Projects
 
-- [Glawbit](https://github.com/Yash-Choubey09/Glawbit) - No description provided. (Python, 1 stars)
-- [kramik](https://github.com/Yash-Choubey09/kramik) - An AI-powered assistive education platform for special-needs schools featuring IEP management, student progress tracking, personalized acti... (TypeScript, 1 stars)
-- [PATENT-A-THON-2.0](https://github.com/Yash-Choubey09/PATENT-A-THON-2.0) - PATENT-A-THON 2.0 official website (JavaScript, 1 stars)
-- [Veyra](https://github.com/Yash-Choubey09/Veyra) - No description provided. (TypeScript, 1 stars)
-- [ieee-ssit-cusb-website](https://github.com/Yash-Choubey09/ieee-ssit-cusb-website) - Official website of IEEE SSIT CUSB, Chandigarh University, featuring the chapter, team, events, initiatives, projects, achievements, and co... (TypeScript, 1 stars)
+- [vs_ishita](https://github.com/Ishita215/vs_ishita) - No description provided. (Python, 0 stars)
+- [Portfolio_Ishita](https://github.com/Ishita215/Portfolio_Ishita) - No description provided. (JavaScript, 0 stars)
+- [Aroma-Roots](https://github.com/Ishita215/Aroma-Roots) - No description provided. (TypeScript, 0 stars)
+- [AeroLaunch](https://github.com/Ishita215/AeroLaunch) - No description provided. (PHP, 0 stars)
+- [Begin_with_CPP](https://github.com/Ishita215/Begin_with_CPP) - No description provided. (C++, 0 stars)
 
 _Updated automatically from GitHub._
 <!-- GITHUB_ANALYSIS_END -->
