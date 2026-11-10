@@ -97,8 +97,8 @@ No repository topics have been added yet.
 
 ### Featured Projects
 
-- [Portfolio_Ishita](https://github.com/Ishita215/Portfolio_Ishita) - No description provided. (JavaScript, 0 stars)
 - [vs_ishita](https://github.com/Ishita215/vs_ishita) - No description provided. (Python, 0 stars)
+- [Portfolio_Ishita](https://github.com/Ishita215/Portfolio_Ishita) - No description provided. (JavaScript, 0 stars)
 - [Aroma-Roots](https://github.com/Ishita215/Aroma-Roots) - No description provided. (TypeScript, 0 stars)
 - [AeroLaunch](https://github.com/Ishita215/AeroLaunch) - No description provided. (PHP, 0 stars)
 - [Begin_with_CPP](https://github.com/Ishita215/Begin_with_CPP) - No description provided. (C++, 0 stars)
