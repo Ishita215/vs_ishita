@@ -374,11 +374,13 @@
 <g class="rise" style="animation-delay:0.90s"><polygon points="747.8,304.2 762.2,308.9 762.2,260.6 747.8,255.9" fill="#4d3797"/><polygon points="771.4,302.1 762.2,308.9 762.2,260.6 771.4,253.8" fill="#332565"/><polygon points="756.9,249.1 771.4,253.8 762.2,260.6 747.8,255.9" fill="#8b63ff"/></g>
 <g><polygon points="724.1,306.3 738.6,311.0 738.6,309.3 724.1,304.6" fill="#141b33"/><polygon points="747.8,304.2 738.6,311.0 738.6,309.3 747.8,302.5" fill="#10162b"/><polygon points="733.3,297.8 747.8,302.5 738.6,309.3 724.1,304.6" fill="#1b2340"/></g>
 <g><polygon points="700.5,308.5 714.9,313.1 714.9,311.4 700.5,306.8" fill="#141b33"/><polygon points="724.1,306.3 714.9,313.1 714.9,311.4 724.1,304.6" fill="#10162b"/><polygon points="709.6,299.9 724.1,304.6 714.9,311.4 700.5,306.8" fill="#1b2340"/></g>
+<g class="rise" style="animation-delay:0.95s"><polygon points="833.2,302.5 847.7,307.2 847.7,236.7 833.2,232.0" fill="#77387b"/><polygon points="856.8,300.4 847.7,307.2 847.7,236.7 856.8,229.9" fill="#4f2552"/><polygon points="842.4,225.2 856.8,229.9 847.7,236.7 833.2,232.0" fill="#d665de" filter="url(#glow)"/></g>
 <g class="rise" style="animation-delay:0.94s"><polygon points="809.5,304.6 824.0,309.3 824.0,261.0 809.5,256.3" fill="#4d3797"/><polygon points="833.2,302.5 824.0,309.3 824.0,261.0 833.2,254.2" fill="#332565"/><polygon points="818.7,249.5 833.2,254.2 824.0,261.0 809.5,256.3" fill="#8b63ff"/></g>
 <g class="rise" style="animation-delay:0.93s"><polygon points="785.9,306.8 800.4,311.4 800.4,263.1 785.9,258.4" fill="#4d3797"/><polygon points="809.5,304.6 800.4,311.4 800.4,263.1 809.5,256.3" fill="#332565"/><polygon points="795.1,251.6 809.5,256.3 800.4,263.1 785.9,258.4" fill="#8b63ff"/></g>
 <g class="rise" style="animation-delay:0.92s"><polygon points="762.2,308.9 776.7,313.6 776.7,265.3 762.2,260.6" fill="#4d3797"/><polygon points="785.9,306.8 776.7,313.6 776.7,265.3 785.9,258.4" fill="#332565"/><polygon points="771.4,253.8 785.9,258.4 776.7,265.3 762.2,260.6" fill="#8b63ff"/></g>
 <g><polygon points="738.6,311.0 753.1,315.7 753.1,314.0 738.6,309.3" fill="#141b33"/><polygon points="762.2,308.9 753.1,315.7 753.1,314.0 762.2,307.2" fill="#10162b"/><polygon points="747.8,302.5 762.2,307.2 753.1,314.0 738.6,309.3" fill="#1b2340"/></g>
 <g><polygon points="714.9,313.1 729.4,317.8 729.4,316.1 714.9,311.4" fill="#141b33"/><polygon points="738.6,311.0 729.4,317.8 729.4,316.1 738.6,309.3" fill="#10162b"/><polygon points="724.1,304.6 738.6,309.3 729.4,316.1 714.9,311.4" fill="#1b2340"/></g>
+<g><polygon points="824.0,309.3 838.5,314.0 838.5,312.3 824.0,307.6" fill="#141b33"/><polygon points="847.7,307.2 838.5,314.0 838.5,312.3 847.7,305.5" fill="#10162b"/><polygon points="833.2,300.8 847.7,305.5 838.5,312.3 824.0,307.6" fill="#1b2340"/></g>
 <g><polygon points="800.4,311.4 814.9,316.1 814.9,314.4 800.4,309.7" fill="#141b33"/><polygon points="824.0,309.3 814.9,316.1 814.9,314.4 824.0,307.6" fill="#10162b"/><polygon points="809.5,302.9 824.0,307.6 814.9,314.4 800.4,309.7" fill="#1b2340"/></g>
 <g><polygon points="776.7,313.6 791.2,318.3 791.2,316.6 776.7,311.9" fill="#141b33"/><polygon points="800.4,311.4 791.2,318.3 791.2,316.6 800.4,309.7" fill="#10162b"/><polygon points="785.9,305.1 800.4,309.7 791.2,316.6 776.7,311.9" fill="#1b2340"/></g>
 <g class="rise" style="animation-delay:0.93s"><polygon points="753.1,315.7 767.6,320.4 767.6,272.1 753.1,267.4" fill="#4d3797"/><polygon points="776.7,313.6 767.6,320.4 767.6,272.1 776.7,265.3" fill="#332565"/><polygon points="762.2,260.6 776.7,265.3 767.6,272.1 753.1,267.4" fill="#8b63ff"/></g>
@@ -393,9 +395,9 @@
 <text x="38" y="230" fill="#ffffff" font-size="15" font-weight="700">@Ishita215</text>
 <text x="38" y="250" fill="#8b93b5" font-size="12">Java &#183; MERN &#183; Quantum &amp; AI</text>
 <text x="38" y="296" fill="#8b93b5" font-size="11" letter-spacing="2">LAST 12 MONTHS</text>
-<text x="38" y="338" fill="#ffffff" font-size="46" font-weight="700">28</text>
+<text x="38" y="338" fill="#ffffff" font-size="46" font-weight="700">30</text>
 <text x="38" y="358" fill="#8b93b5" font-size="13">contributions</text>
-<text x="862" y="52" fill="#2ee6c5" font-size="26" font-weight="700" text-anchor="end">3d</text>
+<text x="862" y="52" fill="#2ee6c5" font-size="26" font-weight="700" text-anchor="end">1d</text>
 <text x="862" y="69" fill="#8b93b5" font-size="11" text-anchor="end" letter-spacing="1.5">CURRENT STREAK</text>
 <text x="862" y="112" fill="#a98bff" font-size="26" font-weight="700" text-anchor="end">8d</text>
 <text x="862" y="129" fill="#8b93b5" font-size="11" text-anchor="end" letter-spacing="1.5">LONGEST STREAK</text>
