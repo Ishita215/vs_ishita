@@ -83,13 +83,13 @@ This section is generated from **Ishita215's** public GitHub repositories and pr
 
 > I build, break, learn, and build again. 💻 Turning ideas into intelligent products with AI, full-stack development & a little creativity. 🚀
 
-**14** original public repositories · **1** followers · **0** following
+**15** original public repositories · **1** followers · **0** following
 
 ### Repository Language Signals
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2f81f7?style=flat-square) ![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-2f81f7?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-2f81f7?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-2f81f7?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-2f81f7?style=flat-square) ![Java](https://img.shields.io/badge/Java-2f81f7?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-2f81f7?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-2f81f7?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-2f81f7?style=flat-square) ![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-2f81f7?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-2f81f7?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-2f81f7?style=flat-square) ![Java](https://img.shields.io/badge/Java-2f81f7?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-2f81f7?style=flat-square)
 
-Most-used languages by repository count: **JavaScript** (6), **Python** (1), **TypeScript** (1), **PHP** (1), **C++** (1), **HTML** (1), **Java** (1), **CSS** (1).
+Most-used languages by repository count: **JavaScript** (6), **TypeScript** (2), **Python** (1), **PHP** (1), **C++** (1), **HTML** (1), **Java** (1), **CSS** (1).
 
 ### Project Topics
 
@@ -97,11 +97,11 @@ No repository topics have been added yet.
 
 ### Featured Projects
 
+- [Porfolio_Ishitha](https://github.com/Ishita215/Porfolio_Ishitha) - A personal Portfolio website (TypeScript, 0 stars)
 - [WayFound](https://github.com/Ishita215/WayFound) - No description provided. (JavaScript, 0 stars)
 - [vs_ishita](https://github.com/Ishita215/vs_ishita) - No description provided. (Python, 0 stars)
 - [Portfolio_Ishita](https://github.com/Ishita215/Portfolio_Ishita) - No description provided. (JavaScript, 0 stars)
 - [Aroma-Roots](https://github.com/Ishita215/Aroma-Roots) - No description provided. (TypeScript, 0 stars)
-- [AeroLaunch](https://github.com/Ishita215/AeroLaunch) - No description provided. (PHP, 0 stars)
 
 _Updated automatically from GitHub._
 <!-- GITHUB_ANALYSIS_END -->
