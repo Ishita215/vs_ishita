@@ -83,7 +83,7 @@ This section is generated from **Ishita215's** public GitHub repositories and pr
 
 > I build, break, learn, and build again. 💻 Turning ideas into intelligent products with AI, full-stack development & a little creativity. 🚀
 
-**15** original public repositories · **1** followers · **0** following
+**15** original public repositories · **0** followers · **0** following
 
 ### Repository Language Signals
 
